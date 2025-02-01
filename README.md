@@ -1,3 +1,3 @@
 DESCRTTIPCIÓN:
-Programación modular en C++
+Programación modular en C++,
 Ejercicios y proyectos
