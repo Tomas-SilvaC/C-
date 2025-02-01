@@ -1,2 +1,3 @@
-# C-
-Programación modular en C+, ejercicios finalizados
+DESCRTTIPCIÓN:
+Programación modular en C++
+Ejercicios y proyectos
